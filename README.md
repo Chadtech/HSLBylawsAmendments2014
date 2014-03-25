@@ -6,18 +6,16 @@ HeatSync Labs is a community workshop where artists, engineers and hobbyists cre
 This Repository
 ---------------
 
-Contains the bylaws for the HSL organization.
+Contains the bylaws for the HSL organization, which were last editted April 2013. This repository was made in preparation for Heatsync's 2014 board meeting. 
 
 Contributing Changes
 --------------------
 
-1. Fork the repository.
-2. Make your changes.
-3. Open a pull request.
-4. Discuss.
-5. Get merged.
+~~1. Fork the repository.~~
+~~2. Make your changes.~~
+~~3. Open a pull request.~~
+~~4. Discuss.~~
+~~5. Get merged.~~
 
-Issues
-------
+0. Just open an issue dummy
 
-Lines of the bylaws that have issues with things like clarity, typos, don't jive with the current organizations practices, are morally in question, etc. can be brought up in the issues section and discussed.  Issue fixes can be pulled in when voted upon by the board as per the amendment section in our bylaws.  Ideally, if there are multiple line changes and have solutions submit them as a group to the board to ease the process.
