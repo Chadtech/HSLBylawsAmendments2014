@@ -81,11 +81,11 @@ Heatsync Labs Bylaws
 
  2. In order to establish a welcoming social atmosphere, no member shall derogate, harass or otherwise troll another member during HSL functions, although civil debating over technical issues or the merit of works of science fiction is welcomed.
 
- 3. Violation of the Code of Conduct shall be reprimanded at the discretion of officers of the Board of Directors present at the location and time of violation.
+ 3. Violation of the Code of Conduct shall be discouraged at the discretion of the community members present at the location and time of violation.
 
  4. At HSL functions and events where HSL members are representing HSL, members are required to abide by all local, state, and federal laws.
 
- 5. Be excellent to each other, dudes.
+ 5. Be excellent to each other.
 
 ## 6. Community Relations
 
