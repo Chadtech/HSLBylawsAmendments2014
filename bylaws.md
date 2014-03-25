@@ -1,7 +1,7 @@
 Heatsync Labs Bylaws
 ====================
 
-## 1. Name and Purpose
+## 0. Name and Purpose
 
  1. The name of this organization shall be known as HeatSync Labs.
 
