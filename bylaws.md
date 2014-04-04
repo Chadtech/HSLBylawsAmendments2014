@@ -7,6 +7,8 @@ Heatsync Labs Bylaws
 
  2. The purpose of HeatSync Labs (herein referred to as “HSL”) shall be to provide a physical space for members and the public to work on projects (especially projects involving physical creation) and to facilitate relevant education, discussion, collaboration, and planning.
 
+ 3. HeatSync Labs aims to make resources available to our creative community outside of the constraints of an academic, corporate, or state controlled environment and nurture a community of collaboration and education among our members and the community at large.
+
 ## 2. Organization
 
  1. HSL shall be governed by a body of officers henceforth known as the Board of Directors. The Board of Directors shall exercise authority to enact its decisions upon the membership. Offices of the Board of Directors will be distinguished according to a particular operational task in a flat hierarchy. Definitive authority shall be given to no office in particular, but to a majority vote of a quorum of voting officers.
