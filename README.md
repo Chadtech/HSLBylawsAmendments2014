@@ -1,7 +1,7 @@
 HeatSync Labs
 =============
 
-HeatSync Labs is a community workshop where artists, engineers and hobbyists create their projects prototypes and their art. 
+HeatSync Labs is a community workshop where artists, engineers and hobbyists create their projects, prototypes, and, art. 
 
 This Repository
 ---------------
